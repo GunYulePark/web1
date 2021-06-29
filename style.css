@@ -39,3 +39,10 @@
       border-bottom: none;
     }
   }
+    table, th, td {
+      border: 1px solid #bcbcbc;
+    }
+    table {
+      width: 400px;
+      height: 200px;
+    }
